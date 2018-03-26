@@ -2,3 +2,4 @@
 * text=auto
 
 *.sp linguist-language=SourcePawn
+*.exe linguist-language=SourcePawn
